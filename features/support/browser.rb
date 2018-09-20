@@ -11,8 +11,4 @@ class Browser
   def close
     driver.close
   end
-
-  def current_url
-    driver.url
-  end
 end
