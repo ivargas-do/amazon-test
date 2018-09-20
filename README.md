@@ -1,4 +1,5 @@
 # amazon-test
+This test ensures that the user can search for a product in amazon, select the product, and add it to the shopping cart. It opens the shopping cart and ensures than there is 1 product and that the name of that product is the expected one.
 
 ## Installation
 - Clone the repository
