@@ -8,6 +8,9 @@
 ~ $ gem install bundler
 ```
 - After installing bundler, execute the following command inside amazon-test folder
+```bash
+~ $ bundle install
+```
 
 ## Usage
 - Execute the following command inside amazon-test folder in order to launch the test.
