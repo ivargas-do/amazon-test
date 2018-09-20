@@ -2,7 +2,7 @@
 
 ## Installation
 - Clone the repository
-- Ensure that you have ruby installed
+- Ensure that you have ruby installed (done and tested with ruby 2.4.1)
 - Install bundler. You can use the following command to install it:
 ```bash
 ~ $ gem install bundler
